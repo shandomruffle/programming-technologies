@@ -1,0 +1,27 @@
+{
+  "book-1": {
+    "title": "War and Peace",
+    "price": 12.4,
+    "image_url": "book-1-image-url"
+  },
+  "book-2": {
+    "title": "Hot snow",
+    "price": 3,
+    "image_url": "book-2-image-url"
+  },
+  "book-3": {
+    "title": "Game of Thrones",
+    "price": 5,
+    "image_url": "book-3-image-url"
+  },
+  "book-4": {
+    "title": "Come with me",
+    "price": 2,
+    "image_url": "book-4-image-url"
+  },
+  "book-5": {
+    "title": "Just thoughts",
+    "price": 7,
+    "image_url": "book-5-image-url"
+  }
+}

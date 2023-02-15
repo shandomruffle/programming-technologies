@@ -1,0 +1,17 @@
+{
+  "category-1": {
+    "available": true,
+    "products": [
+      "book-1",
+      "book-3",
+      "book-4"
+    ]
+  },
+  "category-2": {
+    "available": false,
+    "products": [
+      "book-2",
+      "book-5"
+    ]
+  }
+}

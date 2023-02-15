@@ -1,0 +1,27 @@
+{
+  "war": [
+    {
+      "id": "book-1",
+      "type": "product"
+    },
+    {
+      "id": "book-2",
+      "type": "product"
+    },
+    {
+      "id": "book-3",
+      "type": "product"
+    }
+  ],
+  "love": [],
+  "come": [
+    {
+      "id": "book-4",
+      "type": "product"
+    },
+    {
+      "id": "book-5",
+      "type": "product"
+    }
+  ]
+}
