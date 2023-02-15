@@ -14,6 +14,8 @@
 
 1. Введение в семестр и в технологии программирования. Почему програмировать сложно: [link
 ](https://github.com/dasfex/bsu-programming-technologies/blob/trunk/presentations/1.pdf).
+2. Вспоминаем git и чуть-чуть о других инструментах: [link](
+https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentations/2.pdf)
 
 ## Лабораторные работы
 
