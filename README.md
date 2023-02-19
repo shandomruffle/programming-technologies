@@ -41,6 +41,11 @@ https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/presentat
 Коммитим лишь то, что необходимо для решения задания (никаких ```.idea```, ```cmake-build-debug``` и прочих ненужных служебных файлов). 
 Чтобы не попасться, можно настроить .gitignore по своему усмотрению. 
 
+### Условия
+
+1. ```cistring```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/cistring.md). Дедлайн (один хард): 23:30 22.04.2023. До 8 баллов. 
+2. ```search 1```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/search1.md). Дедлайны: софт 23:30 25.02.2023, хард 23:30 04.03.2023 (с коэффициентом 0.7). До 13 баллов.
+
 ### Настройка репозитория
 
 1. Для сдачи лабораторных работ клонируете публичный репозиторий:
@@ -90,9 +95,3 @@ git push student
 
 5. В приватном репозитории сделайте pull request из этой ветки в ```trunk```.
 Ссылку на него и сдавайте в anytask.
-
-
-### Условия
-
-1. ```cistring```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/cistring.md). Дедлайн (один хард): 23:30 22.04.2023. До 8 баллов. 
-2. ```search 1```: [link](https://github.com/bsu-spring-2023/programming-technologies/blob/trunk/labs/search1.md). Дедлайны: софт 23:30 25.02.2023, хард 23:30 04.03.2023 (с коэффициентом 0.7). До 13 баллов.
